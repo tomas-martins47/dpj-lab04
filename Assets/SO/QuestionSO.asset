@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7df60a57016902419b2937b1f87f943, type: 3}
   m_Name: QuestionSO
   m_EditorClassIdentifier: 
-  question: From which game is this tree from?
+  question: Which game is this tree from?
   answers:
   - Minecraft
   - Shadow of the Colossus
